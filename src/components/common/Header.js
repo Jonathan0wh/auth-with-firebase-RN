@@ -33,4 +33,4 @@ Header.PropTypes = {
   headerText: PropTypes.string
 }
 
-export { Header };
+export {Header};

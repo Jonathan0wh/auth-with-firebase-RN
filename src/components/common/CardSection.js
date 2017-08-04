@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { View, StyleSheet } from 'react-native';
+import {View, StyleSheet} from 'react-native';
 
 const CardSection = props => {
   return (
@@ -22,4 +22,4 @@ const style = StyleSheet.create({
   }
 });
 
-export { CardSection };
+export {CardSection};
